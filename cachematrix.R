@@ -1,5 +1,5 @@
-## These functions cache the inverse of a matrix. This is done to avoid unneccesarily 
-## recalculating the inverse and saving programming time. 
+## These functions cache the inverse of a matrix. This is done to avoid unneccesarily recalculating
+## the inverse and thus saving calculting time. 
 
 ##This function creates a special "matrix", which is required to cache its inverse.
 
